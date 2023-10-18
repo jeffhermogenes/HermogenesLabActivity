@@ -46,7 +46,9 @@ if (isset($_SESSION['cart']) && count($_SESSION['cart']) > 0) {
 
 ?>
 
-<a href='products'>back to products</a> // routing
+<a href='products'>back to products</a> 
+<li><a href='welcome'>go to home</a></li>
+
 
 </body>
 </html>

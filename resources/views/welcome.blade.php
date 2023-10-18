@@ -12,19 +12,14 @@
 
 <nav>
     <ul>
-        <li><a href="products.php">Products</a></li>
-        <li><a href="cart.php">Cart</a></li>
+        <li><a href='products'>go to products</a></li>
+        <li><a href='cart'>go to cart</a></li>
+        <li><a href='about'>go to about</a></li>
+        <li><a href='contact'>go to contact</a></li>
     </ul>
 </nav>
 
-<section>
-    <h2>About Us</h2>
-    <p>Welcome to our shoe store, where you can find a wide selection of high-quality shoes for every occasion. Our mission is to provide you with the best footwear options that combine style, comfort, and affordability. Explore our range of shoes and step into a world of fashion and comfort.</p>
-</section>
 
-<footer>
-    <p>&copy; <?php echo date("Y"); ?> Our Shoe Store</p>
-</footer>
 
 </body>
 </html>
